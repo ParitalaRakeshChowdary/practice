@@ -1,3 +1,10 @@
 welcome to my practice session
 I am practicing jus now
 It is good
+
+My Favourite courses are:
+1.Java Script
+Python
+Java
+
+LISt them out
